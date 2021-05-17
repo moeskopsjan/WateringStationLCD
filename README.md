@@ -3,6 +3,8 @@
 Kurt Beheydt maakte in december 2018 voor TeamScheire een WateringStation.  De Arduinocode hiervoor is beschikbaar via https://github.com/TeamScheire/WateringStation
 
 In deze versie voegen we een LCD toe aan het Arduinoscript.  Op deze manier kan een plantje via een LCD laten weten of hij water nodig heeft.
+* Met BewateringSysteemLCD.ino gebruik je een standaard LCD1602  (ook bruikbaar in TinkerCAD)
+* Met BewateringSysteemLCD.ino gebruik je een LCD1602 met I2C-module
 
 ## Aansluiting
 Voor de aansluiting van de sensor en de servo verwijzen we naar :https://github.com/TeamScheire/WateringStation
