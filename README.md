@@ -15,6 +15,6 @@ De LCD1602 met I2C module is aangesloten op de I2C bus:
 De mini servo is aangesloten op pin 9
 
 ## Simulatie
-Een simulatie van deze opstelling, is tijdelijk) beschikbaar via TinkerCAD: https://www.tinkercad.com/things/gIHjTOaBoHo-bewateringsysteemlcd/editel?sharecode=pFCqASstcvZtVCAVlApf_UrIONwlHltKVOnXcW-kE4I
+Een simulatie van deze opstelling, is (tijdelijk) beschikbaar via TinkerCAD: https://www.tinkercad.com/things/gIHjTOaBoHo-bewateringsysteemlcd/editel?sharecode=pFCqASstcvZtVCAVlApf_UrIONwlHltKVOnXcW-kE4I
 
 Have FUN!
