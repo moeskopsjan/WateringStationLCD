@@ -20,7 +20,7 @@ Een simulatie van deze opstelling, is (tijdelijk) beschikbaar via TinkerCAD: htt
 
 Een afbeelding in TinkerCAD:
 ![Bewateringsysteem](https://github.com/moeskopsjan/WateringStationLCD/blob/main/BewateringSimulatieTinkerCAD.JPG)
-Een moisture sensor is niet beschikbaar in Arduino, maar het wordt ook aangesloten op een analoge ingang.  In deze simulatie hebben we een potmeter aangesloten om de moisture sensor te simuleren.
+Een moisture sensor is niet beschikbaar in Arduino, maar het wordt ook aangesloten op een analoge ingang.  In deze simulatie hebben we een potmeter aangesloten om de moisture sensor na te bootsen.
 De waarden kunnen aangepast worden.  Zie [BewateringSysteemLCD.ino](https://github.com/moeskopsjan/WateringStationLCD/blob/main/BewateringSysteemLCD.ino)
 
 
