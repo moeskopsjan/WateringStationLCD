@@ -17,4 +17,10 @@ De mini servo is aangesloten op pin 9
 ## Simulatie
 Een simulatie van deze opstelling, is (tijdelijk) beschikbaar via TinkerCAD: https://www.tinkercad.com/things/gIHjTOaBoHo-bewateringsysteemlcd/editel?sharecode=pFCqASstcvZtVCAVlApf_UrIONwlHltKVOnXcW-kE4I
 
+Een afbeelding in TinkerCAD:
+![Bewateringsysteem](https://github.com/moeskopsjan/WateringStationLCD/blob/main/BewateringSimulatieTinkerCAD.JPG)
+Een moisture sensor is niet beschikbaar in Arduino, maar het wordt ook aangesloten op een analoge ingang.  In deze simulatie hebben we een potmeter aangesloten om de moisture sensor te simuleren.
+De waarden kunnen aangepast worden.  Zie [BewateringSysteemLCD.ino](https://github.com/moeskopsjan/WateringStationLCD/blob/main/BewateringSysteemLCD.ino)
+
+
 Have FUN!
